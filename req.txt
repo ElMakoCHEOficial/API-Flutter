@@ -1,0 +1,7 @@
+http://nrweb.com.mx/prueba_ws/familia.php
+
+tenemos una api de info familiar
+app de flutter que me ayude a crear una base de datos con sqlite para guardar los datos
+que inicialmente sea una vista vacía solo con un botón que llame a la api 
+luego que muestre las personas y que se puedan editar los datos pero solo se pueda eliminar un registro de familiar
+y que se pueda guardar la nueva info
